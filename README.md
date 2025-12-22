@@ -14,7 +14,7 @@
 
 ## **🤖** About PersonalAgent<a name="about"></a>
 
-PersonalAgent a novel user-centric lifelong agent designed to **continuously infer user information and adapt to user preferences**. Our major contributions are threefold:
+PersonalAgent is a novel user-centric lifelong agent designed to **continuously infer user information and adapt to user preferences**. Our major contributions are threefold:
 1. We **decompose personalization in long-context interactions into intuitive turn-level segments** and formulate it as a multi-turn Markov Decision Process (MDP), which allows unified optimization to capture and adapt to personalized preferences across turns.
 2. We **maintain a lifelong profile for each individual user in session-level dialogues** to ensure long-term alignment with their diverse personalized preferences.
 3. We curate and construct the **ALOE-Unseen dataset**, which is specifically designed to address the critical user cold-start scenario. Experiments across multiple themes and settings further demonstrate the superior performance of PersonalAgent.
