@@ -7,6 +7,8 @@
 <br>
 <br>
 
+![formulation.png](fig/formulation.png)
+
 ## **🔔 News**
 - **[12/22/2025] The ALOE-Unseen dataset is open-sourced!**
 - **[12/17/2025] Our PersonalAgent is released on arXiv:** [[2512.15302] Towards Proactive Personalization through Profile Customization for Individual Users in Dialogues (arxiv.org)](https://arxiv.org/abs/2512.15302)
@@ -18,4 +20,3 @@ PersonalAgent a novel user-centric lifelong agent designed to **continuously inf
 2. We **maintain a lifelong profile for each individual user in session-level dialogues** to ensure long-term alignment with their diverse personalized preferences.
 3. We curate and construct the **ALOE-Unseen dataset**, which is specifically designed to address the critical user cold-start scenario. Experiments across multiple themes and settings further demonstrate the superior performance of PersonalAgent.
 
-![formulation.pdf](fig/formulation.pdf)
