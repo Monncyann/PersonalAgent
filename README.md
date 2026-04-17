@@ -10,6 +10,7 @@
 ![formulation.png](fig/formulation.png)
 
 ## **🔔 News**
+- **[4/7/2026] This work has been accepted to ACL 2026 as a Findings paper, and the ALOE-Unseen Dataset has been released.**
 - **[12/17/2025] Our PersonalAgent is released on arXiv:** [[2512.15302] Towards Proactive Personalization through Profile Customization for Individual Users in Dialogues (arxiv.org)](https://arxiv.org/abs/2512.15302)
 
 ## **🤖** About PersonalAgent<a name="about"></a>
